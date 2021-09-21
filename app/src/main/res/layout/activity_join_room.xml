@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:bind="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/onboarding_">
+
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:src="@drawable/huddle"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="22dp"/>
+
+        <Button
+            android:id="@+id/start_meeting_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/start_meeting_button"
+            android:text="Start Meeting"
+            android:layout_margin="16dp"/>
+
+        <EditText
+            android:id="@+id/room_id_edt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:hint="Room Id"
+            android:background="@drawable/edt_bg"
+            android:padding="16dp"
+            android:textColor="@color/peer_display_name_text_color"
+            android:textColorHint="@color/peer_display_name_text_color"
+            android:singleLine="true"/>
+
+        <Button
+            android:id="@+id/join_meeting_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/start_meeting_button"
+            android:text="Join Meeting"
+            android:layout_marginHorizontal="16dp"/>
+
+    </LinearLayout>
+
+</layout>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/bg_area.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/bg_media_box.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/bg_media_box_off.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/bg_media_box_on.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/buddy.xml" value="0.19537037037037036" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/edt_bg.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/ic_baseline_tag_faces_24.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/ic_microphone_slash.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/ic_state_connected.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/ic_state_connecting.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/ic_state_new_close.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/ic_unknown.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/ic_videocamera_slash.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/icon_change_cam.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/icon_change_webcam_black.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/icon_change_webcam_white_unsupported.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/icon_mic.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/icon_mic_black_on.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/icon_mic_white_off.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/icon_mic_white_unsupported.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/icon_webcam.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/icon_webcam_black_on.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/icon_webcam_white_off.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/icon_webcam_white_unsupported.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/onboarding_.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/drawable/start_meeting_button.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/layout/activity_join_room.xml" value="0.1" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/layout/activity_room.xml" value="0.125" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/layout/item_remote_peer.xml" value="0.125" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/layout/view_me.xml" value="0.125" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/layout/view_peer.xml" value="0.125" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/layout/view_peer_view.xml" value="0.125" />
+        <entry key="..\:/Users/gupta/Documents/huddle01androiddemoapp/app/src/main/res/menu/reactions_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

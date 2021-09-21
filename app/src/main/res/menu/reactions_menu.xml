@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tears_of_joy"
+        android:title="Tears of Joy" />
+
+    <item
+        android:id="@+id/crying_face"
+        android:title="Crying Face" />
+
+    <item
+        android:id="@+id/hundred"
+        android:title="Hundred"/>
+
+    <item
+        android:id="@+id/thumbs_up"
+        android:title="Thumbs Up"/>
+
+    <item
+        android:id="@+id/thumbs_down"
+        android:title="Thumbs Down"/>
+
+    <item
+        android:id="@+id/rocket"
+        android:title="Rocket"/>
+</menu>

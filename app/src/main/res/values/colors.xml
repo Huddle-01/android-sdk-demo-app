@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="peer_display_name_bg_color">#262A34</color>
+    <color name="peer_display_name_text_color">#9CB3BF</color>
+    <color name="peer_bg_color">#1D2029</color>
+    <color name="peer_circle_color">#262A34</color>
+    <color name="text_color">#bfffffff</color>
+    <color name="area_bg">#22ffffff</color>
+    <color name="state_new_closed">#aaaaaa</color>
+    <color name="state_connecting">#ffa500</color>
+    <color name="state_connected">#30bd18</color>
+</resources>

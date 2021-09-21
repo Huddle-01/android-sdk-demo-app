@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">huddle01 android demo app</string>
+    <string name="invitation_link">invitation link</string>
+    <string name="invite_link_copied">Room link copied to the clipboard</string>
+</resources>
