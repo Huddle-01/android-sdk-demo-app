@@ -114,7 +114,7 @@ public class RoomActivity extends AppCompatActivity {
     private void createRoom(){
         loadRoomConfig();
         activityRoomBinding.invitationLink.setText("RoomId: "+mRoomId);
-        huddleClient = new HuddleClient.Builder(getApplicationContext())
+        huddleClient = new HuddleClient.Builder(getApplicationContext(), "i4pzqbpxza8vpijQMwZsP1H7nZZEH0TN3vR4NdNS")
                 .setPeerId(mPeerId)
                 .setRoomId(mRoomId)
                 .setDisplayName(mDisplayName)
